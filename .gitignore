@@ -1,0 +1,6 @@
+generated/*
+target/*
+project/*
+test_run_dir/*
+OLED/build/*
+OLED/*.v
